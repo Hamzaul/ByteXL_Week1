@@ -140,6 +140,16 @@ body{
     margin-left: 18px;
 }
 
+.main_button a{
+    color: #222222;
+    text-decoration: none;
+    font-weight: bold;
+}
+.main_button1 a{
+    color: #222222;
+    text-decoration: none;
+    font-weight: bold;
+}
 .skills{
     width: 78%;
     display: flex;
